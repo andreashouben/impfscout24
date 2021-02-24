@@ -1,0 +1,3863 @@
+[
+  {
+    "Titel": "Virchowstraße 2, 26160 Bad Zwischenahn",
+    "Lat": "53,1972500",
+    "Lon": "7,9892699",
+    "Typ": "Schule",
+    "Ort": "Bad Zwischenahn",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Georgsheiler Weg 52, 26624 Südbrookmerland",
+    "Lat": "53,4775600",
+    "Lon": "7,3265900",
+    "Typ": "Sporthalle",
+    "Ort": "Südbrookmerland",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "St. Leonhard 14, 38102 Braunschweig",
+    "Lat": "52,2577875",
+    "Lon": "10,5393122",
+    "Typ": "Stadthalle",
+    "Ort": "Braunschweig",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Hannoversche Straße 30b, 29221 Celle",
+    "Lat": "52,6149991",
+    "Lon": "10,0798372",
+    "Typ": "Veranstaltungshalle",
+    "Ort": "Celle",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Campingplatz 7, 49681 Garrel-Petersfeld",
+    "Lat": "52,9205800",
+    "Lon": "7,9501399",
+    "Typ": "Jugendherberge",
+    "Ort": "Garrel-Petersfeld",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Lentzstraße 1, 27472 Cuxhaven",
+    "Lat": "53,8674300",
+    "Lon": "8,7118600",
+    "Typ": "Veranstaltungshalle",
+    "Ort": "Cuxhaven",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Wehrhahn 6, 27749 Delmenhorst",
+    "Lat": "53,0549100",
+    "Lon": "8,6278900",
+    "Typ": "Sporthalle",
+    "Ort": "Delmenhorst",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Marie-Hackfeld-Straße 6, 27211 Bassum",
+    "Lat": "52,8439184",
+    "Lon": "8,7281468",
+    "Typ": "Krankenhaus",
+    "Ort": "Bassum",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Früchteburger Weg 17-19, 26721 Emden",
+    "Lat": "53,3781300",
+    "Lon": "7,2036200",
+    "Typ": "Veranstaltungshalle",
+    "Ort": "Emden",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Lindenstraße 24a, 49808 Lingen (Ems)",
+    "Lat": "52,5139501",
+    "Lon": "7,3137733",
+    "Typ": "Veranstaltungshalle",
+    "Ort": "Lingen (Ems)",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Ölmühlenweg 9, 26871 Papenburg",
+    "Lat": "53,0872500",
+    "Lon": "7,3869700",
+    "Typ": "Stadthalle",
+    "Ort": "Papenburg",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Potsdamer Straße 10, 26419 Schortens",
+    "Lat": "53,5279100",
+    "Lon": "8,0334100",
+    "Typ": "Ehemalige Schule",
+    "Ort": "Schortens",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Schützenplatz 2, 38518 Gifhorn",
+    "Lat": "52,4855124",
+    "Lon": "10,5357543",
+    "Typ": "Stadthalle",
+    "Ort": "Gifhorn",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Bei der Eiche 5, 38642 Goslar",
+    "Lat": "51,9014100",
+    "Lon": "10,4783300",
+    "Typ": "Sporthalle",
+    "Ort": "Goslar",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Anna-Vandenhoeck-Ring 13, 37081 Göttingen",
+    "Lat": "51,5201937",
+    "Lon": "9,8821759",
+    "Typ": "Ehemaliger Großmarkt",
+    "Ort": "Göttingen",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Heidestraße 10, 37412 Herzberg am Harz",
+    "Lat": "51,6525954",
+    "Lon": "10,3382335",
+    "Typ": "Sporthalle",
+    "Ort": "Herzberg am Harz",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Godehardstraße 11, 37081 Göttingen",
+    "Lat": "51,5382484",
+    "Lon": "9,9239283",
+    "Typ": "Sporthalle",
+    "Ort": "Göttingen",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Paulstraße 4-8, 48529 Nordhorn",
+    "Lat": "52,4282500",
+    "Lon": "7,0661700",
+    "Typ": "Gewerbehalle",
+    "Ort": "Nordhorn",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Reimerdeskamp, 31787 Hameln",
+    "Lat": "52,1211673",
+    "Lon": "9,3496795",
+    "Typ": "Unterkunftsgebäude",
+    "Ort": "Hameln",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Messegelände, 30521 Hannover",
+    "Lat": "52,3184606",
+    "Lon": "9,8057512",
+    "Typ": "Messehalle 25",
+    "Ort": "Hannover",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Luhdorfer Straße 29, 21423 Winsen (Luhe)",
+    "Lat": "53,3514839",
+    "Lon": "10,2083805",
+    "Typ": "Stadthalle",
+    "Ort": "Winsen (Luhe)",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Richard-Schmidt-Straße 27, 21244 Buchholz",
+    "Lat": "53,3309710",
+    "Lon": "9,8735537",
+    "Typ": "Veranstaltungshalle",
+    "Ort": "Buchholz",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Soltauer Straße 39, 29683 Bad Fallingbostel",
+    "Lat": "52,8747046",
+    "Lon": "9,7055497",
+    "Typ": "Veranstaltungshalle",
+    "Ort": "Bad Fallingbostel",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Kantstraße 27, 38350 Helmstedt",
+    "Lat": "52,2189355",
+    "Lon": "11,0016412",
+    "Typ": "Sporthalle",
+    "Ort": "Helmstedt",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Steuerwalder Straße 158, 31137 Hildesheim",
+    "Lat": "52,1693000",
+    "Lon": "9,9381500",
+    "Typ": "Sporthalle",
+    "Ort": "Hildesheim",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Kalandstraße 19, 31061 Alfeld/Leine",
+    "Lat": "51,9885827",
+    "Lon": "9,8325019",
+    "Typ": "Sporthalle",
+    "Ort": "Alfeld/Leine",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Zeppelinstraße 6, 37603 Holzminden",
+    "Lat": "51,8400468",
+    "Lon": "9,4689811",
+    "Typ": "Gewerbehalle",
+    "Ort": "Holzminden",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "An der Schule 6, 26835 Hesel",
+    "Lat": "53,3065200",
+    "Lon": "7,5889800",
+    "Typ": "Schule",
+    "Ort": "Hesel",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Zeppelinstraße, Lüneburg",
+    "Lat": "53,2461487",
+    "Lon": "10,4581628",
+    "Typ": "Deerberg-Halle",
+    "Ort": "Lüneburg",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Weserweg 48, 31623 Drakenburg",
+    "Lat": "52,6922000",
+    "Lon": "9,2272500",
+    "Typ": "ehemalige Schule",
+    "Ort": "Drakenburg",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Medenheimer Straße 4, 37154 Northeim",
+    "Lat": "51,7060300",
+    "Lon": "9,9961200",
+    "Typ": "Stadthalle",
+    "Ort": "Northeim",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Europaplatz 12, 26123 Oldenburg",
+    "Lat": "53,1466884",
+    "Lon": "8,2278062",
+    "Typ": "Messehalle",
+    "Ort": "Oldenburg",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Westring 7, 27793 Wildeshausen",
+    "Lat": "52,8953872",
+    "Lon": "8,4146707",
+    "Typ": "Ehemaliger Verbrauchermarkt",
+    "Ort": "Wildeshausen",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Schlosswall 10, 49080 Osnabrück",
+    "Lat": "52,2708591",
+    "Lon": "8,0408530",
+    "Typ": "Sporthalle",
+    "Ort": "Osnabrück",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Borsigstraße 2, 49134 Wallenhorst",
+    "Lat": "52,3587600",
+    "Lon": "8,0035115",
+    "Typ": "Ehemaliger Verbrauchermarkt",
+    "Ort": "Wallenhorst",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Leimbrink 1-3, 49124 Georgsmarienhütte",
+    "Lat": "52,2050000",
+    "Lon": "8,0570500",
+    "Typ": "Ehemaliger Verbrauchermarkt",
+    "Ort": "Georgsmarienhütte",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Jacob-Frerichs-Straße 1, 27711 Osterholz-Scharmbeck",
+    "Lat": "53,2193200",
+    "Lon": "8,7955699",
+    "Typ": "Stadthalle",
+    "Ort": "Osterholz-Scharmbeck",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Woltorfer Straße 77a, 31224 Peine",
+    "Lat": "52,3209000",
+    "Lon": "10,2471599",
+    "Typ": "Industriehalle",
+    "Ort": "Peine",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Dr. Otto-Straße 2, 27404 Zeven",
+    "Lat": "53,3025543",
+    "Lon": "9,2835508",
+    "Typ": "Ehemaliges Krankenhaus",
+    "Ort": "Zeven",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Hans-Birnbaum-Straße 30-32, 38229 Salzgitter",
+    "Lat": "52,1585277",
+    "Lon": "10,3623761",
+    "Typ": "Unterkunftsgebäude",
+    "Ort": "Salzgitter",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Enzer Straße 19a, 31655 Stadthagen",
+    "Lat": "52,3230901",
+    "Lon": "9,1974940",
+    "Typ": "Festhalle",
+    "Ort": "Stadthagen",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Sophie-Scholl-Weg 24, 21684 Stade-Ottenbeck",
+    "Lat": "53,5688300",
+    "Lon": "9,5015700",
+    "Typ": "Industriehalle",
+    "Ort": "Stade-Ottenbeck",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Schützenplatz 1, 29525 Uelzen",
+    "Lat": "52,9741600",
+    "Lon": "10,5565400",
+    "Typ": "Stadthalle",
+    "Ort": "Uelzen",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Robert-Bosch-Straße 1, 49393 Lohne",
+    "Lat": "52,6592939",
+    "Lon": "8,1693550",
+    "Typ": "Gewerbehalle",
+    "Ort": "Lohne",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Lindhooper Straße 67a, 27283 Verden (Aller)",
+    "Lat": "52,9280961",
+    "Lon": "9,2508100",
+    "Typ": "Containerbau am Kreishaus",
+    "Ort": "Verden (Aller)",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Kirchenstraße 17, 26919 Brake",
+    "Lat": "53,3232293",
+    "Lon": "8,4814661",
+    "Typ": "Ehemalige Schule",
+    "Ort": "Brake",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Güterstraße 48a, 26389 Wilhelmshaven",
+    "Lat": "53,5212334",
+    "Lon": "8,0756089",
+    "Typ": "Ehemaliger Verbrauchermarkt",
+    "Ort": "Wilhelmshaven",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Grashauser Flage 2, 26427 Esens-Bensersiel",
+    "Lat": "53,6546000",
+    "Lon": "7,6090800",
+    "Typ": "Jugendherberge",
+    "Ort": "Esens-Bensersiel",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Schweigerstraße 8, 38300 Wolfenbüttel",
+    "Lat": "52,1668588",
+    "Lon": "10,5696136",
+    "Typ": "Veranstaltungshalle",
+    "Ort": "Wolfenbüttel",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Heinrich-Heine-Straße, 38440 Wolfsburg",
+    "Lat": "52,4197683",
+    "Lon": "10,7786752",
+    "Typ": "Veranstaltungshalle",
+    "Ort": "Wolfsburg",
+    "Bundesland": "Niedersachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Industriestraße  46, 63654 Büdingen",
+    "Lat": "50,2699201",
+    "Lon": "9,1097896",
+    "Typ": "Gewerbehalle",
+    "Ort": "Büdingen",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Friedrich-Ebert-Allee 1, 65185 Wiesbaden",
+    "Lat": "50,0770981",
+    "Lon": "8,2451183",
+    "Typ": "RheinMain CongressCenter",
+    "Ort": "Wiesbaden",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Geraberger Platz 2, 35633 Lahnau",
+    "Lat": "50,5822200",
+    "Lon": "8,5491300",
+    "Typ": "Lahnauhalle",
+    "Ort": "Lahnau",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Senefelderstraße 2, 65553 Limburg an der Lahn",
+    "Lat": "50,4035515",
+    "Lon": "8,0778990",
+    "Typ": "Impfzentrum",
+    "Ort": "Limburg an der Lahn",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Mainzer Landstraße 500, 65795 Hattersheim",
+    "Lat": "50,0572966",
+    "Lon": "8,4575139",
+    "Typ": "Verwaltungszentrum am Regionalparkturm",
+    "Ort": "Hattersheim",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Wilhelm-Seipp-Straße 1, 64521 Groß-Gerau",
+    "Lat": "49,9153025",
+    "Lon": "8,4759647",
+    "Typ": "Sporthalle",
+    "Ort": "Groß-Gerau",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Berliner Ring 89, 64625 Bensheim",
+    "Lat": "49,6887269",
+    "Lon": "8,6076774",
+    "Typ": "Büro-und Geschäftshaus",
+    "Ort": "Bensheim",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Afföllerstraße 106, 35039 Marburg",
+    "Lat": "50,8323123",
+    "Lon": "8,7685494",
+    "Typ": "Messegelände Afföller",
+    "Ort": "Marburg",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Wiesweg 7, 65343 Eltville am Rhein",
+    "Lat": "50,0360100",
+    "Lon": "8,1139000",
+    "Typ": "Sporthalle",
+    "Ort": "Eltville am Rhein",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Obere Marktstraße, 64711 Erbach",
+    "Lat": "49,6622685",
+    "Lon": "9,0009387",
+    "Typ": "Wiesenmarktgelände",
+    "Ort": "Erbach",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Ludwig-Erhard-Anlage 1, 60326 Frankfurt am Main",
+    "Lat": "50,1110661",
+    "Lon": "8,6455535",
+    "Typ": "Messehalle",
+    "Ort": "Frankfurt am Main",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "An der Hessenhalle 1, 36304 Alsfeld",
+    "Lat": "50,7386000",
+    "Lon": "9,2517400",
+    "Typ": "Hessenhalle",
+    "Ort": "Alsfeld",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Südring 37, 37269 Eschwege",
+    "Lat": "51,1842737",
+    "Lon": "10,0301810",
+    "Typ": "Sporthalle",
+    "Ort": "Eschwege",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Lohmühlenweg, 63571 Gelnhausen",
+    "Lat": "50,2023054",
+    "Lon": "9,1827305",
+    "Typ": "Sporthalle",
+    "Ort": "Gelnhausen",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Martin-Luther-King-Straße, 63452 Hanau",
+    "Lat": "50,1461586",
+    "Lon": "8,9216460",
+    "Typ": "August-Schärttner-Halle",
+    "Ort": "Hanau",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Ludwig-Rinn-Straße 49, 35452 Heuchelheim",
+    "Lat": "50,5772558",
+    "Lon": "8,6333835",
+    "Typ": "Rollermarkt (1. Obergeschoss)",
+    "Ort": "Heuchelheim",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Waldstraße 312, 63071 Offenbach am Main",
+    "Lat": "50,0829565",
+    "Lon": "8,7768393",
+    "Typ": "Stadthalle",
+    "Ort": "Offenbach am Main",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Karpartenstrasse 20, 34497 Korbach",
+    "Lat": "51,2727100",
+    "Lon": "8,8596700",
+    "Typ": "Großsporthalle \"Auf der Hauer\"",
+    "Ort": "Korbach",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Jahnstraße 64, 63150 Heusenstamm",
+    "Lat": "50,0640548",
+    "Lon": "8,7993438",
+    "Typ": "Campus Heusenstamm Rhein Main",
+    "Ort": "Heusenstamm",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Heinz-Meise-Straße 190, 36199 Rotenburg an der Fulda",
+    "Lat": "51,0042501",
+    "Lon": "9,7344541",
+    "Typ": "Göbel Hotels Arena",
+    "Ort": "Rotenburg an der Fulda",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Sportzentrum 1A, 64354 Reinheim",
+    "Lat": "49,8332522",
+    "Lon": "8,8407878",
+    "Typ": "Impfzentrum",
+    "Ort": "Reinheim",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Ostendstraße 3, 64319 Pfungstadt",
+    "Lat": "49,8131940",
+    "Lon": "8,6157635",
+    "Typ": "Impfzentrum",
+    "Ort": "Pfungstadt",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Flugplatzstraße, 34379 Calden",
+    "Lat": "51,4081432",
+    "Lon": "9,3920421",
+    "Typ": "Alter Flugplatz",
+    "Ort": "Calden",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Damaschkestraße 25, 34121 Kassel",
+    "Lat": "51,2970497",
+    "Lon": "9,4845134",
+    "Typ": "Großsporthalle Auepark",
+    "Ort": "Kassel",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Schlossgraben 1, 64283 Darmstadt",
+    "Lat": "49,8744071",
+    "Lon": "8,6576364",
+    "Typ": "Darmstadt Wissenschafts- und Kongresszentrum",
+    "Ort": "Darmstadt",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Am grünen Weg 1, 61352 Bad Homburg",
+    "Lat": "50,2113684",
+    "Lon": "8,6482202",
+    "Typ": "DCX Technology Deutschland",
+    "Ort": "Bad Homburg",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Berliner Straße, 34560 Fritzlar",
+    "Lat": "51,1225855",
+    "Lon": "9,2858382",
+    "Typ": "Besucherparkplatz der Georg-Friedrich-Kaserne",
+    "Ort": "Fritzlar",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Esperantoplatz 1, 36037 Fulda",
+    "Lat": "50,5574320",
+    "Lon": "9,6865047",
+    "Typ": "Kongress- und Kulturzentrum Fulda",
+    "Ort": "Fulda",
+    "Bundesland": "Hessen",
+    "Value": 1
+  },
+  {
+    "Titel": "Badstraße 1, 84524 Neuötting",
+    "Lat": "48,2341587",
+    "Lon": "12,6898094",
+    "Typ": "Hallenbad",
+    "Ort": "Neuötting",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Gebhardtstraße 2, 82515 Wolfratshausen",
+    "Lat": "47,9124300",
+    "Lon": "11,4286900",
+    "Typ": "-",
+    "Ort": "Wolfratshausen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Schützenstraße 15, 83646 Bad Tölz",
+    "Lat": "47,7567795",
+    "Lon": "11,5514463",
+    "Typ": "-",
+    "Ort": "Bad Tölz",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Industriestraße 9, 83404 Ainring",
+    "Lat": "47,8202154",
+    "Lon": "12,9563058",
+    "Typ": "-",
+    "Ort": "Ainring",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Rotkreuzplatz 3-4, 85221 Dachau",
+    "Lat": "48,2563700",
+    "Lon": "11,4345200",
+    "Typ": "Parkplatz am Karlsfelder See (östliches Ufer)",
+    "Ort": "Dachau",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Sparkassenplatz 1, 85560 Ebersberg",
+    "Lat": "48,0737510",
+    "Lon": "11,9652245",
+    "Typ": "-",
+    "Ort": "Ebersberg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Lodererplatz 14, 85435 Erding",
+    "Lat": "48,3088959",
+    "Lon": "11,9108808",
+    "Typ": "Grundschule",
+    "Ort": "Erding",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Volksfestplatz, 85072 Eichstätt",
+    "Lat": "48,8848352",
+    "Lon": "11,1997110",
+    "Typ": "-",
+    "Ort": "Eichstätt",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Bahnhofstraße 16, 85101 Lenting",
+    "Lat": "48,8075510",
+    "Lon": "11,4693920",
+    "Typ": "-",
+    "Ort": "Lenting",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Industriestraße 1, 82256 Fürstenfeldbruck",
+    "Lat": "48,1624188",
+    "Lon": "11,2226413",
+    "Typ": "-",
+    "Ort": "Fürstenfeldbruck",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "General von Stein Straße 1, 85356 Freising",
+    "Lat": "48,4107100",
+    "Lon": "11,7498300",
+    "Typ": "-",
+    "Ort": "Freising",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Weinmiller Straße 1, 85356 Freising",
+    "Lat": "48,4110220",
+    "Lon": "11,7492549",
+    "Typ": "-",
+    "Ort": "Freising",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Eisstadion 1, 82467 Garmisch-Partenkirchen",
+    "Lat": "47,4891064",
+    "Lon": "11,0959404",
+    "Typ": "Eisstadion",
+    "Ort": "Garmisch-Partenkirchen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Bergbräustraße 1, 85049 Ingolstadt",
+    "Lat": "48,7650597",
+    "Lon": "11,4193073",
+    "Typ": "Orbansaalgebäude",
+    "Ort": "Ingolstadt",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Kauferinger Str., 86929 Penzing",
+    "Lat": "48,0770060",
+    "Lon": "10,9217827",
+    "Typ": "Fliegerhorst Penzing (Gebäude 24)",
+    "Ort": "Penzing",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Alte Miesbacher Straße 11, 83734 Hausham",
+    "Lat": "47,7548853",
+    "Lon": "11,8340418",
+    "Typ": "-",
+    "Ort": "Hausham",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Mainstraße 1a, 84453 Mühldorf am Inn",
+    "Lat": "48,2361105",
+    "Lon": "12,5362301",
+    "Typ": "-",
+    "Ort": "Mühldorf am Inn",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Messesee 2, 81829 München",
+    "Lat": "48,1353500",
+    "Lon": "11,6926300",
+    "Typ": "Messehalle C3",
+    "Ort": "München",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Wasserburger Straße 43-47, 85540 Haar",
+    "Lat": "48,1056600",
+    "Lon": "11,7400600",
+    "Typ": "-",
+    "Ort": "Haar",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Kolpingring 16, 82041 Oberhaching",
+    "Lat": "48,0310600",
+    "Lon": "11,5870300",
+    "Typ": "-",
+    "Ort": "Oberhaching",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Volksfestplatz, 85716 Unterschleißheim",
+    "Lat": "48,2699285",
+    "Lon": "11,5863516",
+    "Typ": "-",
+    "Ort": "Unterschleißheim",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Rinderhofer Breite 11, 86529 Schrobenhausen",
+    "Lat": "48,5625343",
+    "Lon": "11,2881549",
+    "Typ": "-",
+    "Ort": "Schrobenhausen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Königstraße 13, 85290 Geisenfeld",
+    "Lat": "48,6767871",
+    "Lon": "11,6232767",
+    "Typ": "-",
+    "Ort": "Geisenfeld",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Sperl-Ring 4, 85276 Hettenshausen-Reisgang",
+    "Lat": "48,5185109",
+    "Lon": "11,5098973",
+    "Typ": "-",
+    "Ort": "Hettenshausen-Reisgang",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Kapuzinerweg 2, 83022 Rosenheim",
+    "Lat": "47,8597265",
+    "Lon": "12,1253127",
+    "Typ": "Inntalhalle",
+    "Ort": "Rosenheim",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Robert-Koch-Allee 2, 82131 Gauting",
+    "Lat": "48,0663500",
+    "Lon": "11,3534100",
+    "Typ": "Asklepios-Klinik",
+    "Ort": "Gauting",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Trostberger Straße 10, 83352 Altenmarkt an der Alz",
+    "Lat": "48,0072504",
+    "Lon": "12,5331459",
+    "Typ": "-",
+    "Ort": "Altenmarkt an der Alz",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Hauptstraße 55-57, 82380 Peißenberg",
+    "Lat": "47,8002185",
+    "Lon": "11,0719976",
+    "Typ": "Krankenhaus",
+    "Ort": "Peißenberg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Ackerloh 2, 94469 Deggendorf",
+    "Lat": "48,8313900",
+    "Lon": "12,9477400",
+    "Typ": "Volksfestplatz",
+    "Ort": "Deggendorf",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Salitersheimer Straße 2, 84130 Dingolfing",
+    "Lat": "48,6501200",
+    "Lon": "12,4850200",
+    "Typ": "-",
+    "Ort": "Dingolfing",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Passauer Straße 9, 94078 Freyung",
+    "Lat": "48,8067200",
+    "Lon": "13,5453925",
+    "Typ": "-",
+    "Ort": "Freyung",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Schloßweg 3, 93309 Kelheim",
+    "Lat": "48,9148309",
+    "Lon": "11,8725179",
+    "Typ": "-",
+    "Ort": "Kelheim",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Niedermayerstraße 100, 84028 Landshut",
+    "Lat": "48,5501098",
+    "Lon": "12,1898541",
+    "Typ": "-",
+    "Ort": "Landshut",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Ziegelfeldstraße 1, 84036 Kumhausen",
+    "Lat": "48,4984181",
+    "Lon": "12,1589155",
+    "Typ": "-",
+    "Ort": "Kumhausen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Messestraße 12, 94036 Passsau",
+    "Lat": "48,5577271",
+    "Lon": "13,4114517",
+    "Typ": "X-Point-Halle",
+    "Ort": "Passsau",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Bayerwaldstraße 1, 94121 Salzweg",
+    "Lat": "48,6328549",
+    "Lon": "13,4780206",
+    "Typ": "-",
+    "Ort": "Salzweg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Poschetsrieder Straße 45, 94209 Regen",
+    "Lat": "48,9618833",
+    "Lon": "13,1513799",
+    "Typ": "Eishalle",
+    "Ort": "Regen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Grafenweg 13 und 17, 84307 Eggenfelden",
+    "Lat": "48,3995026",
+    "Lon": "12,7724920",
+    "Typ": "-",
+    "Ort": "Eggenfelden",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Hagen 75, 94315 Straubing",
+    "Lat": "48,8874640",
+    "Lon": "12,5617492",
+    "Typ": "-",
+    "Ort": "Straubing",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Bruno-Hofer-Straße 8, 92224 Amberg",
+    "Lat": "49,4347757",
+    "Lon": "11,8669302",
+    "Typ": "-",
+    "Ort": "Amberg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Obere Gartenstraße 3, 92237 Sulzbach-Rosenberg",
+    "Lat": "49,5039237",
+    "Lon": "11,7471154",
+    "Typ": "-",
+    "Ort": "Sulzbach-Rosenberg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Arnulstraße 1, 93426 Roding",
+    "Lat": "49,1896778",
+    "Lon": "12,5154655",
+    "Typ": "Krankenhaus",
+    "Ort": "Roding",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Hauser Straße 42, 93444 Bad Kötzting",
+    "Lat": "49,1839258",
+    "Lon": "12,8599885",
+    "Typ": "Krankenhaus",
+    "Ort": "Bad Kötzting",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Karl-Schiller-Straße 4, 92348 Berg",
+    "Lat": "49,3126076",
+    "Lon": "11,4735254",
+    "Typ": "-",
+    "Ort": "Berg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Dultplatz, 93059 Regensburg",
+    "Lat": "49,0268656",
+    "Lon": "12,0977748",
+    "Typ": "-",
+    "Ort": "Regensburg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Altmühlstraße 1a, 93059 Regensburg",
+    "Lat": "49,0303180",
+    "Lon": "12,1150747",
+    "Typ": "-",
+    "Ort": "Regensburg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Rathausplatz 25, 84069 Schierling",
+    "Lat": "48,8374137",
+    "Lon": "12,1387512",
+    "Typ": "-",
+    "Ort": "Schierling",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Krankenhausstraße 25, 92507 Nabburg",
+    "Lat": "49,4482981",
+    "Lon": "12,1711333",
+    "Typ": "Bayerisches Rotes Kreuz",
+    "Ort": "Nabburg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Egerer Straße 30, 95652 Waldsassen",
+    "Lat": "50,0065754",
+    "Lon": "12,3080175",
+    "Typ": "-",
+    "Ort": "Waldsassen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Ulrich-Schönberger-Straße 11, 92637 Weiden in der Oberpfalz",
+    "Lat": "49,6841483",
+    "Lon": "12,1663678",
+    "Typ": "-",
+    "Ort": "Weiden in der Oberpfalz",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Zeppelinstraße 2, 296052 Bamberg",
+    "Lat": "49,9145500",
+    "Lon": "10,9104900",
+    "Typ": "Tennispark",
+    "Ort": "2 Bamberg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Kolpingstraße, 95444 Bayreuth",
+    "Lat": "49,9469664",
+    "Lon": "11,5789653",
+    "Typ": "Stadtbadturnhalle",
+    "Ort": "Bayreuth",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Adolf-Wächter-Straße 8, 95447 Bayreuth",
+    "Lat": "49,9349370",
+    "Lon": "11,5483680",
+    "Typ": "Johannes-Kepler-Realschule",
+    "Ort": "Bayreuth",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Langer Berg 12, 91257 Pegnitz",
+    "Lat": "49,7580145",
+    "Lon": "11,5271101",
+    "Typ": "Sana-Klinik",
+    "Ort": "Pegnitz",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Badstraße 20a, 96482 Ahorn",
+    "Lat": "50,2253571",
+    "Lon": "10,9027338",
+    "Typ": "-",
+    "Ort": "Ahorn",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Don-Bosco-Straße 4, 91301 Forchheim",
+    "Lat": "49,7185714",
+    "Lon": "11,0788378",
+    "Typ": "-",
+    "Ort": "Forchheim",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Ernst-Reuter-Straße 62, 95030 Hof",
+    "Lat": "50,3138235",
+    "Lon": "11,9065756",
+    "Typ": "-",
+    "Ort": "Hof",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Industriestraße 11, 96361 Kronach",
+    "Lat": "50,2327607",
+    "Lon": "11,3382426",
+    "Typ": "Gebäude 60",
+    "Ort": "Kronach",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Fritz-Hornschuch-Straße 9, 95326 Kulmbach",
+    "Lat": "50,1078953",
+    "Lon": "11,4509099",
+    "Typ": "-",
+    "Ort": "Kulmbach",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Gabelsberger Straße 22, 96215 Lichtenfels",
+    "Lat": "50,1491200",
+    "Lon": "11,0729041",
+    "Typ": "-",
+    "Ort": "Lichtenfels",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Rot-Kreuz-Straße 7, 95632 Wunsiedel",
+    "Lat": "50,0382600",
+    "Lon": "11,9941399",
+    "Typ": "-",
+    "Ort": "Wunsiedel",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Onolzbach 69, 91522 Ansbach",
+    "Lat": "49,2994022",
+    "Lon": "10,5570694",
+    "Typ": "Altes Messegelände",
+    "Ort": "Ansbach",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Sedanstraße 1, 91052 Erlangen",
+    "Lat": "49,5907897",
+    "Lon": "11,0055675",
+    "Typ": "Ehemaliges Sporthaus",
+    "Ort": "Erlangen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Rosenstraße 16-20, 90762 Fürth",
+    "Lat": "49,4765548",
+    "Lon": "10,9866440",
+    "Typ": "-",
+    "Ort": "Fürth",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Erkenbrechtallee 2, 91438 Bad Windsheim",
+    "Lat": "49,5123200",
+    "Lon": "10,4148800",
+    "Typ": "Kur- und Kongresszentrum",
+    "Ort": "Bad Windsheim",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Messezentrum 1, 90471 Nürnberg",
+    "Lat": "49,4177539",
+    "Lon": "11,1204919",
+    "Typ": "Halle 3C",
+    "Ort": "Nürnberg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Sulzbacher Straße 47, 90552 Röthenbach a.d. Pegnitz",
+    "Lat": "49,4913867",
+    "Lon": "11,2511098",
+    "Typ": "Ehemalige Industriehalle",
+    "Ort": "Röthenbach a.d. Pegnitz",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Gildestraße 17, 91154 Roth",
+    "Lat": "49,2491500",
+    "Lon": "11,1172400",
+    "Typ": "Verwaltungsgebäude ALDI Süd",
+    "Ort": "Roth",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Huttersbühlstraße 23, 91126 Schwabach",
+    "Lat": "49,3194510",
+    "Lon": "11,0238468",
+    "Typ": "-",
+    "Ort": "Schwabach",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Spitalfeldstraße 7–9, 91710 Gunzenhausen",
+    "Lat": "49,1212334",
+    "Lon": "10,7850479",
+    "Typ": "-",
+    "Ort": "Gunzenhausen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Siemensstraße 2, 63768 Hösbach",
+    "Lat": "50,0061621",
+    "Lon": "9,2182970",
+    "Typ": "A3 Centers",
+    "Ort": "Hösbach",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Reithausplatz 2, 97688 Bad Kissingen",
+    "Lat": "50,2032523",
+    "Lon": "10,0742091",
+    "Typ": "-",
+    "Ort": "Bad Kissingen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Eichelsdorfer Straße 11, 97461 Hofheim in Unterfranken",
+    "Lat": "50,1417643",
+    "Lon": "10,5272931",
+    "Typ": "-",
+    "Ort": "Hofheim in Unterfranken",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Keltenstraße 67, 97318 Kitzingen",
+    "Lat": "49,7438900",
+    "Lon": "10,1385700",
+    "Typ": "Krankenhaus",
+    "Ort": "Kitzingen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Marshall-Heights-Ring 15-17, 97318 Kitzingen",
+    "Lat": "49,7396693",
+    "Lon": "10,1396480",
+    "Typ": "-",
+    "Ort": "Kitzingen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Lehmskaute 22, 97816 Lohr",
+    "Lat": "49,9901412",
+    "Lon": "9,5747230",
+    "Typ": "Spessarttorhalle",
+    "Ort": "Lohr",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Breitendieler Str. 32, 63897 Miltenberg",
+    "Lat": "49,7036898",
+    "Lon": "9,2284275",
+    "Typ": "Krankenhaus",
+    "Ort": "Miltenberg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Goethestraße 9, 97616 Bad Neustadt",
+    "Lat": "50,3220542",
+    "Lon": "10,2103072",
+    "Typ": "-",
+    "Ort": "Bad Neustadt",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "John-F.-Kennedy-Ring, 97421 Schweinfurt",
+    "Lat": "50,0436684",
+    "Lon": "10,2062694",
+    "Typ": "Ecke Am Volksfestplatz",
+    "Ort": "Schweinfurt",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Mainaustraße an der Talavera, 97082 Würzburg",
+    "Lat": "49,7996155",
+    "Lon": "9,9049368",
+    "Typ": "-",
+    "Ort": "Würzburg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Levi-Strauss-Straße 118, 97232 Giebelstadt",
+    "Lat": "49,6586337",
+    "Lon": "9,9804367",
+    "Typ": "-",
+    "Ort": "Giebelstadt",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Carl-von-Linde Straße 6, 86453 Dasing",
+    "Lat": "48,3981088",
+    "Lon": "11,0882630",
+    "Typ": "-",
+    "Ort": "Dasing",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Krankenhausstraße 11, 86551 Aichach",
+    "Lat": "48,4627740",
+    "Lon": "11,1406996",
+    "Typ": "-",
+    "Ort": "Aichach",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Josef-Schorer-Straße 10, 86179 Augsburg",
+    "Lat": "48,3226538",
+    "Lon": "10,8943660",
+    "Typ": "-",
+    "Ort": "Augsburg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Paul-Klee-Straße 13, 86456 Gablingen",
+    "Lat": "48,4577322",
+    "Lon": "10,8555708",
+    "Typ": "-",
+    "Ort": "Gablingen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Pestalozzistraße 12, 86637 Wertingen",
+    "Lat": "48,5650408",
+    "Lon": "10,6823890",
+    "Typ": "Hallenbad / Dreifachturnhalle",
+    "Ort": "Wertingen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Josef-Gänsler-Straße 8, 86609 Donauwörth",
+    "Lat": "48,7100891",
+    "Lon": "10,7539315",
+    "Typ": "-",
+    "Ort": "Donauwörth",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Kimmerle-Ring, 89312 Günzburg-Deffingen",
+    "Lat": "48,4288331",
+    "Lon": "10,2976306",
+    "Typ": "PERI-Areal Günzburg an der A8/B16",
+    "Ort": "Günzburg-Deffingen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Mühlstraße 13, 86381 Krumbach",
+    "Lat": "48,2460008",
+    "Lon": "10,3636674",
+    "Typ": "Pfarrzentrum St. Michael",
+    "Ort": "Krumbach",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Alte Weberei 4, 87600 Kaufbeuren",
+    "Lat": "47,8826679",
+    "Lon": "10,6234816",
+    "Typ": "-",
+    "Ort": "Kaufbeuren",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Kaufbeurerstraße 80, 87437 Kempten",
+    "Lat": "47,7387552",
+    "Lon": "10,3247697",
+    "Typ": "-",
+    "Ort": "Kempten",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Reutiner Straße 10, 88131 Lindau (Bodensee)",
+    "Lat": "47,5576200",
+    "Lon": "9,6965200",
+    "Typ": "-",
+    "Ort": "Lindau (Bodensee)",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Nadenberg 30, 88161 Lindenberg",
+    "Lat": "47,6131615",
+    "Lon": "9,8947430",
+    "Typ": "-",
+    "Ort": "Lindenberg",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Buxacher Straße 8, 87700 Memmingen",
+    "Lat": "47,9860513",
+    "Lon": "10,1751672",
+    "Typ": "Ehemaliges Schulgebäude",
+    "Ort": "Memmingen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Kammerlander Straße 1, 89264 Weißenhorn",
+    "Lat": "48,3048212",
+    "Lon": "10,1622167",
+    "Typ": "-",
+    "Ort": "Weißenhorn",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Wegenerstraße 13, 89231 Neu-Ulm",
+    "Lat": "48,3737519",
+    "Lon": "10,0048031",
+    "Typ": "-",
+    "Ort": "Neu-Ulm",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Hofgarten, 87509 Immenstadt",
+    "Lat": "47,5613200",
+    "Lon": "10,2175699",
+    "Typ": "-",
+    "Ort": "Immenstadt",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Nordstraße 12, 87616 Marktoberdorf",
+    "Lat": "47,7966037",
+    "Lon": "10,6247933",
+    "Typ": "-",
+    "Ort": "Marktoberdorf",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Rudolf-Diesel-Straße 26, 86825 Bad Wörishofen",
+    "Lat": "48,0199472",
+    "Lon": "10,6054030",
+    "Typ": "-",
+    "Ort": "Bad Wörishofen",
+    "Bundesland": "Bayern",
+    "Value": 1
+  },
+  {
+    "Titel": "Hubert-Wienen-Straße 8, 52070 Aachen",
+    "Lat": "50,7960701",
+    "Lon": "6,1010627",
+    "Typ": "Eissporthalle",
+    "Ort": "Aachen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Willy-Brandt-Platz 1, 33602 Bielefeld",
+    "Lat": "52,0287593",
+    "Lon": "8,5356139",
+    "Typ": "Stadthalle",
+    "Ort": "Bielefeld",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Stadionring 20, 44787 Bochum",
+    "Lat": "51,4897130",
+    "Lon": "7,2330186",
+    "Typ": "RuhrCongress",
+    "Ort": "Bochum",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Platz der Vereinten Nationen 2, 53113 Bonn",
+    "Lat": "50,7192250",
+    "Lon": "7,1242580",
+    "Typ": "World Conference Center",
+    "Ort": "Bonn",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Schlatt 2, 46342 Velen",
+    "Lat": "51,9364031",
+    "Lon": "6,9504418",
+    "Typ": "Interkommunaler Bauhof",
+    "Ort": "Velen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Südring 79, 46242 Bottrop",
+    "Lat": "51,5110581",
+    "Lon": "6,9244511",
+    "Typ": "-",
+    "Ort": "Bottrop",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "An der Lehmkuhle 87, 48249 Dülmen",
+    "Lat": "51,8448738",
+    "Lon": "7,2905810",
+    "Typ": "-",
+    "Ort": "Dülmen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Phoenixplatz 4, 44263 Dortmund",
+    "Lat": "51,4883680",
+    "Lon": "7,4885947",
+    "Typ": "Warsteiner Music Hall",
+    "Ort": "Dortmund",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Plessingstr. 20, 47051 Duisburg",
+    "Lat": "51,4287700",
+    "Lon": "6,7567300",
+    "Typ": "Theater am Marientor",
+    "Ort": "Duisburg",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Ellernbusch, 52355 Düren",
+    "Lat": "50,7951184",
+    "Lon": "6,4677115",
+    "Typ": "Ehemaliges Telekom-Gebäude \"Am Ellernbusch\"",
+    "Ort": "Düren",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Arena-Straße 1, 40474 Düsseldorf",
+    "Lat": "51,2612410",
+    "Lon": "6,7324382",
+    "Typ": "Merkur-Spiel-Arena",
+    "Ort": "Düsseldorf",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Kölner Str. 205, 58256 Ennepetal",
+    "Lat": "51,2969300",
+    "Lon": "7,3312100",
+    "Typ": "-",
+    "Ort": "Ennepetal",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Messeplatz 1, 45131 Essen",
+    "Lat": "51,4301510",
+    "Lon": "6,9979643",
+    "Typ": "Halle 4",
+    "Ort": "Essen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Dr. Konrad-Adenauer-Str. 1, 53947 Nettersheim-Marmagen",
+    "Lat": "50,4825977",
+    "Lon": "6,5738197",
+    "Typ": "Kreis-Krankenhilfeeinrichtung Marmagen",
+    "Ort": "Nettersheim-Marmagen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Adenauerallee 118, 45891 Gelsenkirchen",
+    "Lat": "51,5533452",
+    "Lon": "7,0732208",
+    "Typ": "Emscher-Lippe-Halle",
+    "Ort": "Gelsenkirchen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Marienfelder Straße 351, 33330 Gütersloh",
+    "Lat": "51,9262654",
+    "Lon": "8,3241059",
+    "Typ": "NAAFI Shop (Flughafen Gütersloh)",
+    "Ort": "Gütersloh",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Wasserloses Tal 2, 58093 Hagen",
+    "Lat": "51,3531091",
+    "Lon": "7,4846507",
+    "Typ": "Stadthalle",
+    "Ort": "Hagen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Marker Allee 20, 59063 Hamm",
+    "Lat": "51,6811540",
+    "Lon": "7,8287286",
+    "Typ": "Sportzentrum Friedensschule",
+    "Ort": "Hamm",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Brüsseler Allee 5, 41812 Erkelenz",
+    "Lat": "51,0613274",
+    "Lon": "6,3057064",
+    "Typ": "-",
+    "Ort": "Erkelenz",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Bustedter Weg  16, 32130 Enger",
+    "Lat": "52,1668500",
+    "Lon": "8,5895200",
+    "Typ": "-",
+    "Ort": "Enger",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Revierpark 22, 44627 Herne",
+    "Lat": "51,5326330",
+    "Lon": "7,2544110",
+    "Typ": "Sporthalle im Revierpark Gysenberg",
+    "Ort": "Herne",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Ruhrstraße 32, 59939 Olsberg",
+    "Lat": "51,3538818",
+    "Lon": "8,4850363",
+    "Typ": "-",
+    "Ort": "Olsberg",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Schützenanger 4, 33034 Brakel",
+    "Lat": "51,7159817",
+    "Lon": "9,1930289",
+    "Typ": "Stadthalle",
+    "Ort": "Brakel",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Griether Str. 110-120, 47546 Kalkar",
+    "Lat": "51,7636540",
+    "Lon": "6,3269163",
+    "Typ": "Messehalle „Hanse Halle Grieth“",
+    "Ort": "Kalkar",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Messeplatz 1, 50679 Köln",
+    "Lat": "50,9475956",
+    "Lon": "6,9813574",
+    "Typ": "Messe",
+    "Ort": "Köln",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Sprödentalplatz, 47799 Krefeld",
+    "Lat": "51,3364148",
+    "Lon": "6,5844442",
+    "Typ": "-",
+    "Ort": "Krefeld",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Nobelstraße 37, 51373 Leverkusen",
+    "Lat": "51,0342153",
+    "Lon": "6,9805459",
+    "Typ": "Erholungshaus",
+    "Ort": "Leverkusen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Bunsenstraße 39, 32657 Lemgo",
+    "Lat": "52,0171000",
+    "Lon": "8,9077401",
+    "Typ": "Phoenix Contact Arena",
+    "Ort": "Lemgo",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Reckenstraße 6, 58511 Lüdenscheid",
+    "Lat": "51,2198615",
+    "Lon": "7,6441585",
+    "Typ": "Historische Schützenhalle",
+    "Ort": "Lüdenscheid",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Timocom-Platz 1, 40699 Erkrath",
+    "Lat": "51,2207015",
+    "Lon": "6,9374199",
+    "Typ": "TimoCom GmbH, Gebäude B",
+    "Ort": "Erkrath",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Schulstraße 18, 32479 Hille",
+    "Lat": "52,2953400",
+    "Lon": "8,7681100",
+    "Typ": "Mehrzweck-Sporthalle Unterlübbe",
+    "Ort": "Hille",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Nordpark 260, 41069 Mönchengladbach",
+    "Lat": "51,1901675",
+    "Lon": "6,3882742",
+    "Typ": "-",
+    "Ort": "Mönchengladbach",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Wissolstraße 5, 45478 Mülheim an der Ruhr",
+    "Lat": "51,4239086",
+    "Lon": "6,8509613",
+    "Typ": "-",
+    "Ort": "Mülheim an der Ruhr",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Albersloher Weg 32, 48155 Münster",
+    "Lat": "51,9478392",
+    "Lon": "7,6388121",
+    "Typ": "Halle Münsterland",
+    "Ort": "Münster",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Hammfelddamm 2, 41460 Neuss",
+    "Lat": "51,1918237",
+    "Lon": "6,7094535",
+    "Typ": "Sporthalle Berufskolleg für Technik und Informatik (BTI)",
+    "Ort": "Neuss",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Brückenstr. 1, 51643 Gummersbach",
+    "Lat": "51,0269560",
+    "Lon": "7,5635290",
+    "Typ": "Einkaufszentrum Bergischer Hof (1. Obergeschoss)",
+    "Ort": "Gummersbach",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Lothringer Str. 75, 46045 Oberhausen",
+    "Lat": "51,4660602",
+    "Lon": "6,8523168",
+    "Typ": "Willy-Jürissen-Halle",
+    "Ort": "Oberhausen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Heggener Weg 34, 57439 Attendorn",
+    "Lat": "51,1323972",
+    "Lon": "7,9191725",
+    "Typ": "-",
+    "Ort": "Attendorn",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Upsprunger Str. 1, 33154 Salzkotten",
+    "Lat": "51,6697924",
+    "Lon": "8,6009287",
+    "Typ": "Sälzerhalle",
+    "Ort": "Salzkotten",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Konrad-Adenauer-Platz, 45657 Recklinghausen",
+    "Lat": "51,6110841",
+    "Lon": "7,2026215",
+    "Typ": "Leichtbauhalle (gegenüber Kreishaus)",
+    "Ort": "Recklinghausen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Wallburgstraße 23, 42857 Remscheid",
+    "Lat": "51,1654400",
+    "Lon": "7,1518700",
+    "Typ": "Sporthalle West",
+    "Ort": "Remscheid",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Hürth Park 1, 50354 Hürth",
+    "Lat": "50,8798491",
+    "Lon": "6,8728862",
+    "Typ": "-",
+    "Ort": "Hürth",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Hauptstraße 131, 51465 Bergisch Gladbach",
+    "Lat": "50,9903796",
+    "Lon": "7,1243536",
+    "Typ": "Rhein-Berg-Galerie",
+    "Ort": "Bergisch Gladbach",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Arnold-Janssen-Straße 29, 53757 St. Augustin",
+    "Lat": "50,7752200",
+    "Lon": "7,1815300",
+    "Typ": "Asklepios-Kinderklinik Sankt Augustin",
+    "Ort": "St. Augustin",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Eiserfelder Straße 236, 57080 Siegen",
+    "Lat": "50,8501748",
+    "Lon": "7,9958902",
+    "Typ": "Ehemalige Verkaufsräumlichkeiten eines Baumarktes",
+    "Ort": "Siegen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Senator-Schwartz-Ring 26, 59494 Soest",
+    "Lat": "51,5591766",
+    "Lon": "8,0839195",
+    "Typ": "-",
+    "Ort": "Soest",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Hauptstr. 75-77, 42651 Solingen",
+    "Lat": "51,1728003",
+    "Lon": "7,0850270",
+    "Typ": "Galeria Kaufhof",
+    "Ort": "Solingen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Airportallee 1, 48268 Greven",
+    "Lat": "52,1307253",
+    "Lon": "7,6929150",
+    "Typ": "Flughafen Münster-Osnabrück (Terminal 1)",
+    "Ort": "Greven",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Platanenallee 20a, 59425 Unna",
+    "Lat": "51,5457547",
+    "Lon": "7,6872739",
+    "Typ": "-",
+    "Ort": "Unna",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Heesstraße 2-10, 41751 Viersen",
+    "Lat": "51,2492800",
+    "Lon": "6,3403600",
+    "Typ": "Ehemaliges Krankenhaus Cornelius",
+    "Ort": "Viersen",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Westring 10, 59320 Ennigerloh",
+    "Lat": "51,8515700",
+    "Lon": "8,0199800",
+    "Typ": "-",
+    "Ort": "Ennigerloh",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "An de Tent 1, 46485 Wesel",
+    "Lat": "51,6524437",
+    "Lon": "6,6290793",
+    "Typ": "Niederrheinhalle",
+    "Ort": "Wesel",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Rainer-Gruenter-Straße, 42119 Wuppertal",
+    "Lat": "51,2391352",
+    "Lon": "7,1621875",
+    "Typ": "Bergische Universität – Campus Freudenberg",
+    "Ort": "Wuppertal",
+    "Bundesland": "NRW",
+    "Value": 1
+  },
+  {
+    "Titel": "Werderstraße 4, 76530 Baden-Baden",
+    "Lat": "48,7595847",
+    "Lon": "8,2356284",
+    "Typ": "Kurhaus",
+    "Ort": "Baden-Baden",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Ludwig-Jahn-Straße 6a, 77815 Bühl",
+    "Lat": "48,6893581",
+    "Lon": "8,1281924",
+    "Typ": "Schwarzwaldhalle",
+    "Ort": "Bühl",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Hauptstraße/Alte Bergsteige, 74821 Mosbach",
+    "Lat": "49,3541677",
+    "Lon": "9,1475078",
+    "Typ": "Obertorzentrum",
+    "Ort": "Mosbach",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Hummelberg 6, 74889 Sinsheim",
+    "Lat": "49,2357648",
+    "Lon": "8,8762144",
+    "Typ": "Parsa-Halle",
+    "Ort": "Sinsheim",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Werderstraße 4, 69469 Weinheim",
+    "Lat": "49,5542200",
+    "Lon": "8,6678900",
+    "Typ": "3-Glocken-Center",
+    "Ort": "Weinheim",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Wildbader Str. 28, 72213 Altensteig",
+    "Lat": "48,6225780",
+    "Lon": "8,6437552",
+    "Typ": "DEKRA Congresshotel Wart",
+    "Ort": "Altensteig",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Pforzheimer Straße 85, 71297 Mönsheim",
+    "Lat": "48,8653142",
+    "Lon": "8,8552517",
+    "Typ": "Appenbergsporthalle",
+    "Ort": "Mönsheim",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Blanc & Fischer-Gewerbepark, 75056 Sulzfeld",
+    "Lat": "49,0998233",
+    "Lon": "8,8591526",
+    "Typ": "EGO-Halle 4",
+    "Ort": "Sulzfeld",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Stuttgarter Str. 10, 76646 Bruchsal",
+    "Lat": "49,0955346",
+    "Lon": "8,6409557",
+    "Typ": "Praktiker Baumarkt",
+    "Ort": "Bruchsal",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Festplatz 5, 76137 Karlsruhe",
+    "Lat": "49,0017796",
+    "Lon": "8,4010219",
+    "Typ": "Schwarzwaldhalle",
+    "Ort": "Karlsruhe",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Riedsteige 80, 72280 Dornstetten",
+    "Lat": "48,4725461",
+    "Lon": "8,5052167",
+    "Typ": "Riedsteighalle",
+    "Ort": "Dornstetten",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Hohwiesenweg 4, 75175 Pforzheim",
+    "Lat": "48,8961343",
+    "Lon": "8,7232690",
+    "Typ": "Eissporthalle",
+    "Ort": "Pforzheim",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Schwalbenweg 1/2, 69123 Heidelberg",
+    "Lat": "49,3987200",
+    "Lon": "8,6532900",
+    "Typ": "Gesellschaftshaus Pfaffengrund",
+    "Ort": "Heidelberg",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Xaver-Fuhr-Straße 101, 68163 Mannheim",
+    "Lat": "49,4691724",
+    "Lon": "8,5229291",
+    "Typ": "Maimarkt",
+    "Ort": "Mannheim",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Mahdentalstraße 116, 71065 Sindelfingen",
+    "Lat": "48,7052005",
+    "Lon": "9,0383469",
+    "Typ": "Messehalle",
+    "Ort": "Sindelfingen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Messepiazza 1, 70629 Stuttgart",
+    "Lat": "48,6937500",
+    "Lon": "9,1868760",
+    "Typ": "Messe Stuttgart",
+    "Ort": "Stuttgart",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Zeppelinstraße, 73730 Esslingen am Neckar",
+    "Lat": "48,7221838",
+    "Lon": "9,3432966",
+    "Typ": "Gewerbegebäude",
+    "Ort": "Esslingen am Neckar",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Grönerstraße 33, 71636 Ludwigsburg",
+    "Lat": "48,8926679",
+    "Lon": "9,1683451",
+    "Typ": "MM Studios",
+    "Ort": "Ludwigsburg",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Hugo-Rupf-Platz 1, 89522 Heidenheim an der Brenz",
+    "Lat": "48,6725144",
+    "Lon": "10,1467234",
+    "Typ": "Congress Centrum",
+    "Ort": "Heidenheim an der Brenz",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Parkstraße 15, 73430 Aalen",
+    "Lat": "48,8401628",
+    "Lon": "10,0821922",
+    "Typ": "Ulrich-Pfeifle-Halle",
+    "Ort": "Aalen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Seegartenstraße 16, 97980 Bad Mergentheim",
+    "Lat": "49,4871778",
+    "Lon": "9,7700168",
+    "Typ": "Berufliches Schulzentrum",
+    "Ort": "Bad Mergentheim",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Nussäckerstraße 3, 74081 Heilbronn",
+    "Lat": "49,1140400",
+    "Lon": "9,1714100",
+    "Typ": "Stauwehrhalle",
+    "Ort": "Heilbronn",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Ochsenweg 2, 74360 Ilsfeld",
+    "Lat": "49,0542092",
+    "Lon": "9,2874207",
+    "Typ": "Tiefenbachhalle",
+    "Ort": "Ilsfeld",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Esslinger Str. 10, 73037 Göppingen",
+    "Lat": "48,6967902",
+    "Lon": "9,6798337",
+    "Typ": "-",
+    "Ort": "Göppingen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Pfaffenmühlweg 30, 74613 Öhringen",
+    "Lat": "49,1990172",
+    "Lon": "9,5073173",
+    "Typ": "Hohenlohe-Sporthalle",
+    "Ort": "Öhringen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Beinsteiner Str. 160, 71334 Waiblingen",
+    "Lat": "48,8263635",
+    "Lon": "9,3301265",
+    "Typ": "Rundsporthalle",
+    "Ort": "Waiblingen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "74549 Wolpertshausen",
+    "Lat": "49,1588773",
+    "Lon": "9,8447956",
+    "Typ": "Mehrzweckhalle",
+    "Ort": "Wolpertshausen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Talstraße 3, 89584 Ehingen (Donau)",
+    "Lat": "48,2717150",
+    "Lon": "9,7274987",
+    "Typ": "Alb-Donau-Center",
+    "Ort": "Ehingen (Donau)",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "An der Kreuzeiche 4, 72762 Reutlingen",
+    "Lat": "48,4784500",
+    "Lon": "9,1892200",
+    "Typ": "Stadion Kreuzeiche",
+    "Ort": "Reutlingen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Bleicherstraße 20, 88212 Ravensburg",
+    "Lat": "47,7907711",
+    "Lon": "9,6137881",
+    "Typ": "Oberschwabenhalle",
+    "Ort": "Ravensburg",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Europastraße 50, 72072 Tübingen",
+    "Lat": "48,5105016",
+    "Lon": "9,0420197",
+    "Typ": "Paul Horn-Arena",
+    "Ort": "Tübingen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Geißbühlstraße 51, 72469 Meßstetten",
+    "Lat": "48,1869000",
+    "Lon": "8,9947100",
+    "Typ": "Zollernalb-Kaserne",
+    "Ort": "Meßstetten",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Flugplatz, 88512 Mengen",
+    "Lat": "48,0562024",
+    "Lon": "9,3653289",
+    "Typ": "Oberschwaben-Kaserne",
+    "Ort": "Mengen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Neue Messe 1, 88046 Friedrichshafen",
+    "Lat": "47,6781865",
+    "Lon": "9,5072751",
+    "Typ": "Messe",
+    "Ort": "Friedrichshafen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Schulstraße 31, 88444 Ummendorf",
+    "Lat": "48,0613769",
+    "Lon": "9,8287803",
+    "Typ": "Gemeindehalle",
+    "Ort": "Ummendorf",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Böfinger Str. 50, 89073 Ulm",
+    "Lat": "48,4158634",
+    "Lon": "10,0150628",
+    "Typ": "Messe Ulm (Halle 5)",
+    "Ort": "Ulm",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Mercedesstraße 69, 70372 Stuttgart",
+    "Lat": "48,7936340",
+    "Lon": "9,2276367",
+    "Typ": "Nebenhalle Hans-Martin-Schleyer-Halle",
+    "Ort": "Stuttgart",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Berliner Str. 2, 79761 Waldshut-Tiengen",
+    "Lat": "47,6305195",
+    "Lon": "8,2760460",
+    "Typ": "Stadthalle Tiengen",
+    "Ort": "Waldshut-Tiengen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Hohgarten 4, 78224 Singen (Hohentwiel)",
+    "Lat": "47,7612411",
+    "Lon": "8,8325771",
+    "Typ": "Stadthalle",
+    "Ort": "Singen (Hohentwiel)",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Rheinstraße 15, 77933 Lahr/Schwarzwald",
+    "Lat": "48,3447069",
+    "Lon": "7,8325254",
+    "Typ": "Rheintalsporthalle",
+    "Ort": "Lahr/Schwarzwald",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Schutterwälder Str. 3, 77656 Offenburg",
+    "Lat": "48,4621107",
+    "Lon": "7,9350358",
+    "Typ": "Messe Offenburg-Ortenau",
+    "Ort": "Offenburg",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "78628 Rottweil",
+    "Lat": "48,1634481",
+    "Lon": "8,6468210",
+    "Typ": "Stadthalle",
+    "Ort": "Rottweil",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Industriestraße 26, 79341 Kenzingen",
+    "Lat": "48,2018332",
+    "Lon": "7,7676525",
+    "Typ": "Ehemaliger ALDI-Markt",
+    "Ort": "Kenzingen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Beim Haagensteg 5, 79541 Lörrach",
+    "Lat": "47,6325900",
+    "Lon": "7,6814623",
+    "Typ": "Freizeitcenter IMPULSIV",
+    "Ort": "Lörrach",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "79379 Müllheim",
+    "Lat": "47,8165337",
+    "Lon": "7,6370241",
+    "Typ": "-",
+    "Ort": "Müllheim",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Waldeckweg 25, 78056 Villingen-Schwenningen",
+    "Lat": "48,0501269",
+    "Lon": "8,5424307",
+    "Typ": "Tennisclub",
+    "Ort": "Villingen-Schwenningen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Mühlenweg 19, 78532 Tuttlingen",
+    "Lat": "47,9861121",
+    "Lon": "8,8043406",
+    "Typ": "Kreissporthalle",
+    "Ort": "Tuttlingen",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Neuer Messpl. 1, 79108 Freiburg im Breisgau",
+    "Lat": "48,0156785",
+    "Lon": "7,8403115",
+    "Typ": "Messe Freiburg",
+    "Ort": "Freiburg im Breisgau",
+    "Bundesland": "Baden-Württemberg",
+    "Value": 1
+  },
+  {
+    "Titel": "Zu den Ziegelwiesen 8, 23881 Alt Mölln",
+    "Lat": "53,6226893",
+    "Lon": "10,6727992",
+    "Typ": "Ehemaliges Schleswag-Gebäude",
+    "Ort": "Alt Mölln",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Konrad-Adenauer-Ring 2, 23843 Bad Oldesloe",
+    "Lat": "53,8122876",
+    "Lon": "10,3692402",
+    "Typ": "Jugendherberge",
+    "Ort": "Bad Oldesloe",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Markt 15, 23611 Bad Schwartau",
+    "Lat": "53,9196256",
+    "Lon": "10,6968826",
+    "Typ": "Ehemaliges Amtsgericht",
+    "Ort": "Bad Schwartau",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Bojestraße 30, 25541 Brunsbüttel",
+    "Lat": "53,8990337",
+    "Lon": "9,1374385",
+    "Typ": "Ehemalige Schule",
+    "Ort": "Brunsbüttel",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "24782 Büdelsdorf",
+    "Lat": "54,3178434",
+    "Lon": "9,6800016",
+    "Typ": "-",
+    "Ort": "Büdelsdorf",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Otto-Hahn-Straße 18, 25337 Elmshorn",
+    "Lat": "53,7432389",
+    "Lon": "9,6864004",
+    "Typ": "-",
+    "Ort": "Elmshorn",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Markt 7-8, 23701 Eutin",
+    "Lat": "54,1366613",
+    "Lon": "10,6161540",
+    "Typ": "Ehemaliger Verbrauchermarkt",
+    "Ort": "Eutin",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Twedter Markt 11, 24944 Flensburg",
+    "Lat": "54,8179200",
+    "Lon": "9,4627400",
+    "Typ": "Ehemaliges Bundeswehrgelände",
+    "Ort": "Flensburg",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Dialogweg 4, 21502 Geesthacht",
+    "Lat": "53,4443786",
+    "Lon": "10,3844471",
+    "Typ": "Ehemaliges Berufsbildungszentrum",
+    "Ort": "Geesthacht",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Sportpark 3, 24214 Gettorf",
+    "Lat": "54,3960372",
+    "Lon": "9,9679043",
+    "Typ": "-",
+    "Ort": "Gettorf",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Wöhrendamm 80, 22927 Großhansdorf",
+    "Lat": "53,6600021",
+    "Lon": "10,2813483",
+    "Typ": "Bei der Lungenklinik",
+    "Ort": "Großhansdorf",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Meldorfer Straße 196, 25746 Heide",
+    "Lat": "54,1784862",
+    "Lon": "9,0910708",
+    "Typ": "Ehemaliges Autohaus",
+    "Ort": "Heide",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Messeplatz 12-18, 25813 Husum",
+    "Lat": "54,4959747",
+    "Lon": "9,0904116",
+    "Typ": "Messehalle",
+    "Ort": "Husum",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Emmy-Noether-Straße 17, 25524 Itzehoe",
+    "Lat": "53,9575800",
+    "Lon": "9,4981200",
+    "Typ": "Ehemaliger Indoor-Spielplatz",
+    "Ort": "Itzehoe",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Borsigstraße 1, 24568 Kaltenkirchen",
+    "Lat": "53,8227200",
+    "Lon": "9,9754500",
+    "Typ": "-",
+    "Ort": "Kaltenkirchen",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Schwedenkai 1, 24103 Kiel",
+    "Lat": "54,3198790",
+    "Lon": "10,1395807",
+    "Typ": "-",
+    "Ort": "Kiel",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Mühlendamm 1, 24113 Kiel",
+    "Lat": "54,3136397",
+    "Lon": "10,0995714",
+    "Typ": "Citti-Park",
+    "Ort": "Kiel",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Markt 11, 24848 Kropp",
+    "Lat": "54,4129000",
+    "Lon": "9,5092601",
+    "Typ": "Forum",
+    "Ort": "Kropp",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Eutiner Straße 56, 23738 Lensahn",
+    "Lat": "54,2154500",
+    "Lon": "10,8639800",
+    "Typ": "Trakt D",
+    "Ort": "Lensahn",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Willy-Brandt-Allee 10, 23554 Lübeck",
+    "Lat": "53,8693490",
+    "Lon": "10,6781020",
+    "Typ": "Musik- und Kongresshalle",
+    "Ort": "Lübeck",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Justus-von-Liebig-Straße 2-4, 24537 Neumünster",
+    "Lat": "54,0927029",
+    "Lon": "9,9766020",
+    "Typ": "Holstenhallen",
+    "Ort": "Neumünster",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Mühlenstraße 65, 25899 Niebüll",
+    "Lat": "54,7873826",
+    "Lon": "8,8103854",
+    "Typ": "Jugendherberge",
+    "Ort": "Niebüll",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Knüttelallee 1, 24392 Norderbrarup",
+    "Lat": "54,6558298",
+    "Lon": "9,7682776",
+    "Typ": "Ehemalige Schule",
+    "Ort": "Norderbrarup",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Rathausallee 50, 22846 Norderstedt",
+    "Lat": "53,7079600",
+    "Lon": "9,9941500",
+    "Typ": "TriBühne",
+    "Ort": "Norderstedt",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Ascheberger Straße 67, 24306 Plön",
+    "Lat": "54,1479949",
+    "Lon": "10,3931242",
+    "Typ": "Jugendherberge",
+    "Ort": "Plön",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Peiner Hag 11-13, 25497 Prisdorf",
+    "Lat": "53,6713497",
+    "Lon": "9,7707764",
+    "Typ": "Ehemaliger Verbrauchermarkt",
+    "Ort": "Prisdorf",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Schulstraße 7, 21465 Reinbek",
+    "Lat": "53,5133197",
+    "Lon": "10,2492276",
+    "Typ": "Jürgen Rickertsen Haus",
+    "Ort": "Reinbek",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Stakendorfer Weg 1, 24217 Schönberg in Holstein",
+    "Lat": "54,3948900",
+    "Lon": "10,3812600",
+    "Typ": "Jugendherberge",
+    "Ort": "Schönberg in Holstein",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Nordlandstraße 7, 23812 Wahlstedt",
+    "Lat": "53,9513162",
+    "Lon": "10,1946821",
+    "Typ": "Tennishalle",
+    "Ort": "Wahlstedt",
+    "Bundesland": "Schleswig-Holstein",
+    "Value": 1
+  },
+  {
+    "Titel": "Messering 6, 01067 Dresden",
+    "Lat": "51,0682387",
+    "Lon": "13,7204083",
+    "Typ": "Messe",
+    "Ort": "Dresden",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Messe-Allee 1, 04356 Leipzig",
+    "Lat": "51,3954727",
+    "Lon": "12,3988051",
+    "Typ": "Messe",
+    "Ort": "Leipzig",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Wilhelm-Raabe-Straße 6, 09120 Chemnitz",
+    "Lat": "50,8176785",
+    "Lon": "12,9164568",
+    "Typ": "Netto Chemnitz",
+    "Ort": "Chemnitz",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Zum Tower 6, 01917 Kamenz",
+    "Lat": "51,2916028",
+    "Lon": "14,1152280",
+    "Typ": "Flugplatz",
+    "Ort": "Kamenz",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Ernst-Roch-Straße 4, 09456 Annaberg-Buchholz",
+    "Lat": "50,5767100",
+    "Lon": "13,0130200",
+    "Typ": "Festhalle",
+    "Ort": "Annaberg-Buchholz",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Görlitzer Str. 2, 02708 Löbau",
+    "Lat": "51,1003993",
+    "Lon": "14,6763391",
+    "Typ": "Messe",
+    "Ort": "Löbau",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Leipziger Str. 10, 04552 Borna",
+    "Lat": "51,1292838",
+    "Lon": "12,5041946",
+    "Typ": "Ehemaliger Verbrauchermarkt",
+    "Ort": "Borna",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Sportzentrum 5, 01589 Riesa",
+    "Lat": "51,2978197",
+    "Lon": "13,2958838",
+    "Typ": "Sachsen-Arena Riesa",
+    "Ort": "Riesa",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Schillerstraße 1, 09648 Mittweida",
+    "Lat": "50,9852696",
+    "Lon": "12,9733328",
+    "Typ": "Ehemaliges Einkaufszentrum",
+    "Ort": "Mittweida",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Mühlberger Str. 37, 04874 Belgern-Schildau",
+    "Lat": "51,4759362",
+    "Lon": "13,1338808",
+    "Typ": "Stadthalle Belgern",
+    "Ort": "Belgern-Schildau",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Radeberger Straße, 01796 Pirna",
+    "Lat": "51,0001404",
+    "Lon": "13,9437429",
+    "Typ": "Ehemaliger ALDI-Markt",
+    "Ort": "Pirna",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Rebesgrüner Straße 9, 08233 Treuen",
+    "Lat": "50,5409100",
+    "Lon": "12,3502700",
+    "Typ": "Ehemaliger Verbrauchermarkt",
+    "Ort": "Treuen",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Bergmannsstraße 1, 08056 Zwickau",
+    "Lat": "50,7040704",
+    "Lon": "12,4964177",
+    "Typ": "Stadthalle Zwickau",
+    "Ort": "Zwickau",
+    "Bundesland": "Sachsen",
+    "Value": 1
+  },
+  {
+    "Titel": "Fasanenallee 30, 66740 Saarlouis",
+    "Lat": "49,3128262",
+    "Lon": "6,7311842",
+    "Typ": "Ehemaliges Braun CarTec",
+    "Ort": "Saarlouis",
+    "Bundesland": "Saarland",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Schanzenberg, 66117 Saarbrücken",
+    "Lat": "49,2312028",
+    "Lon": "6,9586816",
+    "Typ": "Messehalle 1 und 2",
+    "Ort": "Saarbrücken",
+    "Bundesland": "Saarland",
+    "Value": 1
+  },
+  {
+    "Titel": "Redener Str. 20, 66540 Neunkirchen",
+    "Lat": "49,3518663",
+    "Lon": "7,1486819",
+    "Typ": "Ehemaliger Baumarkt",
+    "Ort": "Neunkirchen",
+    "Bundesland": "Saarland",
+    "Value": 1
+  },
+  {
+    "Titel": "Rathausstraße 56, 57537 Wissen",
+    "Lat": "50,7814543",
+    "Lon": "7,7344121",
+    "Typ": "Obergeschoss der Westerwald Bank",
+    "Ort": "Wissen",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Altenahrer Str. 13, 53501 Grafschaft",
+    "Lat": "50,5818116",
+    "Lon": "7,0319379",
+    "Typ": "Mehrzweckhalle",
+    "Ort": "Grafschaft",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Albiger Straße, Alzey",
+    "Lat": "49,7539111",
+    "Lon": "8,1172530",
+    "Typ": "DRK-Fahrzeughalle",
+    "Ort": "Alzey",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Kurbrunnenstraße 30-32, 67098 Bad Dürkheim",
+    "Lat": "49,4656692",
+    "Lon": "8,1736020",
+    "Typ": "Salierhalle",
+    "Ort": "Bad Dürkheim",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Westtangente 3, 55566 Bad Sobernheim",
+    "Lat": "49,7865173",
+    "Lon": "7,6394624",
+    "Typ": "Ehemaliger Real-Markt",
+    "Ort": "Bad Sobernheim",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "54516 Wittlich",
+    "Lat": "49,9869440",
+    "Lon": "6,8897220",
+    "Typ": "Ehemaliges Hela-Gelände",
+    "Ort": "Wittlich",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "John-F.-Kennedy-Straße 9, 55743 Idar-Oberstein",
+    "Lat": "49,7077849",
+    "Lon": "7,3532678",
+    "Typ": "Messe",
+    "Ort": "Idar-Oberstein",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "54634 Bitburg",
+    "Lat": "49,9664145",
+    "Lon": "6,5298603",
+    "Typ": "Ehemalige High School",
+    "Ort": "Bitburg",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "56814 Landkern",
+    "Lat": "50,1939998",
+    "Lon": "7,1531828",
+    "Typ": "Eifelgoldhalle",
+    "Ort": "Landkern",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Dr.-Edeltraud-Sießl-Allee 4, 67292 Kirchheimbolanden",
+    "Lat": "49,6669157",
+    "Lon": "8,0137348",
+    "Typ": "Stadthalle",
+    "Ort": "Kirchheimbolanden",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Petersgartenweg 9, 67227 Frankenthal",
+    "Lat": "49,5317227",
+    "Lon": "8,3469171",
+    "Typ": "Turnhalle der Andreas-Albert-Schule",
+    "Ort": "Frankenthal",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "76744 Wörth am Rhein",
+    "Lat": "49,0514423",
+    "Lon": "8,2573380",
+    "Typ": "Industriegebiet Wörth-Oberwald",
+    "Ort": "Wörth am Rhein",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Opelkreisel 1, 67663 Kaiserslautern",
+    "Lat": "49,4396047",
+    "Lon": "7,6875445",
+    "Typ": "Werksgelände Opel",
+    "Ort": "Kaiserslautern",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Jupp-Gauchel-Straße 16, 56075 Koblenz",
+    "Lat": "50,3306800",
+    "Lon": "7,5858100",
+    "Typ": "Fechthalle",
+    "Ort": "Koblenz",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "66869 Kusel",
+    "Lat": "49,5383747",
+    "Lon": "7,4064528",
+    "Typ": "Ehemalige Bundeswehr-Kaserne",
+    "Ort": "Kusel",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Yorckstraße 2, 67061 Ludwigshafen am Rhein",
+    "Lat": "49,4787978",
+    "Lon": "8,4534240",
+    "Typ": "Walzmühle",
+    "Ort": "Ludwigshafen am Rhein",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "55124 Mainz",
+    "Lat": "50,0022253",
+    "Lon": "8,1937267",
+    "Typ": "Ehemalige Fachhochschule",
+    "Ort": "Mainz",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Konrad-Adenauer-Straße 51/5, 55218 Ingelheim am Rhein",
+    "Lat": "49,9864100",
+    "Lon": "8,0432000",
+    "Typ": "Ehemalige Aufnahmeeinrichtung für Asylbegehrende",
+    "Ort": "Ingelheim am Rhein",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Vormaystraße, 56751 Polch",
+    "Lat": "50,3020127",
+    "Lon": "7,3176000",
+    "Typ": "Maifeldhalle",
+    "Ort": "Polch",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Chemnitzer Straße 2, 67433 Neustadt an der Weinstraße",
+    "Lat": "49,3455394",
+    "Lon": "8,1578322",
+    "Typ": "Telekom-Hochhaus",
+    "Ort": "Neustadt an der Weinstraße",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "56587 Oberhonnefeld",
+    "Lat": "50,5536604",
+    "Lon": "7,5167310",
+    "Typ": "Gewerbehalle",
+    "Ort": "Oberhonnefeld",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Zeppelinstraße 11, 66953 Pirmasens",
+    "Lat": "49,2059549",
+    "Lon": "7,6104850",
+    "Typ": "Messe",
+    "Ort": "Pirmasens",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Holzbacher Str. 4, 55469 Simmern/Hunsrück",
+    "Lat": "49,9810634",
+    "Lon": "7,5146413",
+    "Typ": "Ehemaliger Sconto-Markt",
+    "Ort": "Simmern/Hunsrück",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "56112 Lahnstein",
+    "Lat": "50,3101356",
+    "Lon": "7,6118814",
+    "Typ": "Ehemaliger LIDL",
+    "Ort": "Lahnstein",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Neustückweg 3, 67105 Schifferstadt",
+    "Lat": "49,3729112",
+    "Lon": "8,3749112",
+    "Typ": "Neue Kreishalle",
+    "Ort": "Schifferstadt",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Obere Langgasse 33, 67346 Speyer",
+    "Lat": "49,3180904",
+    "Lon": "8,4247395",
+    "Typ": "Stadthalle",
+    "Ort": "Speyer",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "In den Moselauen 1, 54294 Trier",
+    "Lat": "49,7405009",
+    "Lon": "6,6221507",
+    "Typ": "Messepark",
+    "Ort": "Trier",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Viehmarkt, 54576 Hillesheim",
+    "Lat": "50,2893630",
+    "Lon": "6,6726648",
+    "Typ": "Markt- und Messehalle",
+    "Ort": "Hillesheim",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Kantstraße 19, 57627 Hachenburg",
+    "Lat": "50,6561809",
+    "Lon": "7,8213336",
+    "Typ": "Realschule",
+    "Ort": "Hachenburg",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Mainzer Str. 52, 67547 Worms",
+    "Lat": "49,6398169",
+    "Lon": "8,3642962",
+    "Typ": "Nikolaus-Doerr-Halle",
+    "Ort": "Worms",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Hauptstraße 10, 66482 Zweibrücken",
+    "Lat": "49,2479200",
+    "Lon": "7,3652300",
+    "Typ": "City-outlet",
+    "Ort": "Zweibrücken",
+    "Bundesland": "Rheinland-Pfalz",
+    "Value": 1
+  },
+  {
+    "Titel": "Philipp-Müller-Straße 18, 39638 Gardelegen",
+    "Lat": "52,5245600",
+    "Lon": "11,3961900",
+    "Typ": "Nebengebäude Kreisverwaltung",
+    "Ort": "Gardelegen",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "06766 Bitterfeld",
+    "Lat": "51,6694163",
+    "Lon": "12,2352670",
+    "Typ": "Filmfabrik Wolfen",
+    "Ort": "Bitterfeld",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Hallesche Straße, 06686 Lützen",
+    "Lat": "51,1842597",
+    "Lon": "12,0118862",
+    "Typ": "Gewerbegebiet Zorbau",
+    "Ort": "Lützen",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Robert-Bosch-Straße 54, 06847 Dessau-Roßlau",
+    "Lat": "51,8301022",
+    "Lon": "12,2180314",
+    "Typ": "Anhalt Arena",
+    "Ort": "Dessau-Roßlau",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Osterburger Straße, Stendal",
+    "Lat": "52,6279788",
+    "Lon": "11,8420817",
+    "Typ": "Ehemalige Kindertagesstätte",
+    "Ort": "Stendal",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "06484 Quedlinburg",
+    "Lat": "51,8120745",
+    "Lon": "11,1357179",
+    "Typ": "Ehemaliger Supermarkt in Nähe des Bahnhofs",
+    "Ort": "Quedlinburg",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Bodestraße, Straßfurt",
+    "Lat": "51,8522115",
+    "Lon": "11,5928291",
+    "Typ": "Ehemalige Kinderklinik",
+    "Ort": "Straßfurt",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Platz des Friedens 1, 39288 Burg",
+    "Lat": "52,2720900",
+    "Lon": "11,8445800",
+    "Typ": "Stadthalle",
+    "Ort": "Burg",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Dr.-Wilhelm-Külz-Straße 35, 06526 Sangerhausen",
+    "Lat": "51,4783935",
+    "Lon": "11,2992092",
+    "Typ": "Mammuthalle",
+    "Ort": "Sangerhausen",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Mittelfeld 50, 06886 Lutherstadt Wittenberg",
+    "Lat": "51,8659071",
+    "Lon": "12,6889275",
+    "Typ": "Berufsbildende Schulen (Sporthalle)",
+    "Ort": "Lutherstadt Wittenberg",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Spergauer Str. 41A, 06237 Leuna",
+    "Lat": "51,3226458",
+    "Lon": "12,0163523",
+    "Typ": "CCe Kulturhaus",
+    "Ort": "Leuna",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Dammühlenweg 21A, 39340 Haldensleben",
+    "Lat": "52,2681700",
+    "Lon": "11,4237900",
+    "Typ": "Kita Regenbogen",
+    "Ort": "Haldensleben",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Tessenowstraße 9a, 39114 Magdeburg",
+    "Lat": "52,1350126",
+    "Lon": "11,6706562",
+    "Typ": "Messehalle 3",
+    "Ort": "Magdeburg",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Magdeburger Straße 22, Halle",
+    "Lat": "51,4853800",
+    "Lon": "11,9791800",
+    "Typ": "Campus der Martin-Luther-Universität",
+    "Ort": "Halle",
+    "Bundesland": "Sachsen-Anhalt",
+    "Value": 1
+  },
+  {
+    "Titel": "Messedamm 22, 14055 Berlin",
+    "Lat": "52,5012463",
+    "Lon": "13,2741797",
+    "Typ": "Messe (Halle 11)",
+    "Ort": "Berlin",
+    "Bundesland": "Berlin",
+    "Value": 1
+  },
+  {
+    "Titel": "Saatwinkler Damm, 13405 Berlin",
+    "Lat": "52,5483451",
+    "Lon": "13,2868610",
+    "Typ": "Ehemaliger Flughafen Tegel (Terminal C)",
+    "Ort": "Berlin",
+    "Bundesland": "Berlin",
+    "Value": 1
+  },
+  {
+    "Titel": "Platz der Luftbrücke 5, 12101 Berlin",
+    "Lat": "52,4821151",
+    "Lon": "13,3891911",
+    "Typ": "Flughafen Tempelhof",
+    "Ort": "Berlin",
+    "Bundesland": "Berlin",
+    "Value": 1
+  },
+  {
+    "Titel": "Müllerstraße 185, 13353 Berlin",
+    "Lat": "52,5373200",
+    "Lon": "13,3694900",
+    "Typ": "Erika-Heß-Eisstadion",
+    "Ort": "Berlin",
+    "Bundesland": "Berlin",
+    "Value": 1
+  },
+  {
+    "Titel": "Paul-Heyse-Straße 26, 10407 Berlin",
+    "Lat": "52,5308170",
+    "Lon": "13,4501840",
+    "Typ": "Velodrom",
+    "Ort": "Berlin",
+    "Bundesland": "Berlin",
+    "Value": 1
+  },
+  {
+    "Titel": "Eichenstraße 4, 12435 Berlin",
+    "Lat": "52,4964226",
+    "Lon": "13,4532015",
+    "Typ": "Arena Berlin",
+    "Ort": "Berlin",
+    "Bundesland": "Berlin",
+    "Value": 1
+  },
+  {
+    "Titel": "Messeplatz 1, 20357 Hamburg",
+    "Lat": "53,5617952",
+    "Lon": "9,9751190",
+    "Typ": "Messe",
+    "Ort": "Hamburg",
+    "Bundesland": "Hamburg",
+    "Value": 1
+  },
+  {
+    "Titel": "Findorffstraße, 28215 Bremen",
+    "Lat": "53,0880947",
+    "Lon": "8,8084519",
+    "Typ": "Messe (Halle 7)",
+    "Ort": "Bremen",
+    "Bundesland": "Bremen",
+    "Value": 1
+  },
+  {
+    "Titel": "Wilhelm-Kaisen-Platz 1, 27576 Bremerhaven",
+    "Lat": "53,5549000",
+    "Lon": "8,5892300",
+    "Typ": "Stadthalle",
+    "Ort": "Bremerhaven",
+    "Bundesland": "Bremen",
+    "Value": 1
+  },
+  {
+    "Titel": "Großbeerenstraße 200, 14482 Potsdam",
+    "Lat": "52,3835549",
+    "Lon": "13,1209888",
+    "Typ": "Metropolis-Halle",
+    "Ort": "Potsdam",
+    "Bundesland": "Brandenburg",
+    "Value": 1
+  },
+  {
+    "Titel": "Vorparkstraße 3, 03042 Cottbus",
+    "Lat": "51,7502261",
+    "Lon": "14,3483770",
+    "Typ": "Messe",
+    "Ort": "Cottbus",
+    "Bundesland": "Brandenburg",
+    "Value": 1
+  },
+  {
+    "Titel": "Kyritz",
+    "Lat": "52,9432288",
+    "Lon": "12,3961713",
+    "Typ": "Kreissporthalle",
+    "Ort": "Kyritz",
+    "Bundesland": "Brandenburg",
+    "Value": 1
+  },
+  {
+    "Titel": "André-Pican-Straße 42, 16515 Oranienburg",
+    "Lat": "52,7498757",
+    "Lon": "13,2567420",
+    "Typ": "Sportforum in der Turm-Erlebniscity",
+    "Ort": "Oranienburg",
+    "Bundesland": "Brandenburg",
+    "Value": 1
+  },
+  {
+    "Titel": "Berliner Straße 29, 17291 Prenzlau",
+    "Lat": "53,3012600",
+    "Lon": "13,8241000",
+    "Typ": "Sporthalle der Carl-Friedrich-Grabow-Schule",
+    "Ort": "Prenzlau",
+    "Bundesland": "Brandenburg",
+    "Value": 1
+  },
+  {
+    "Titel": "Eberswalde",
+    "Lat": "52,8371330",
+    "Lon": "13,7875871",
+    "Typ": "Sportzentrum Westend",
+    "Ort": "Eberswalde",
+    "Bundesland": "Brandenburg",
+    "Value": 1
+  },
+  {
+    "Titel": "Frankfurt (Oder)",
+    "Lat": "52,3472237",
+    "Lon": "14,5505672",
+    "Typ": "Messe",
+    "Ort": "Frankfurt (Oder)",
+    "Bundesland": "Brandenburg",
+    "Value": 1
+  },
+  {
+    "Titel": "Elsterwerda",
+    "Lat": "51,4632578",
+    "Lon": "13,5202201",
+    "Typ": "Mehrzweckhalle",
+    "Ort": "Elsterwerda",
+    "Bundesland": "Brandenburg",
+    "Value": 1
+  },
+  {
+    "Titel": "Luckenwalde",
+    "Lat": "52,0903895",
+    "Lon": "13,1636906",
+    "Typ": "Fläminghalle",
+    "Ort": "Luckenwalde",
+    "Bundesland": "Brandenburg",
+    "Value": 1
+  },
+  {
+    "Titel": "12529 Schönefeld",
+    "Lat": "52,3690709",
+    "Lon": "13,5016479",
+    "Typ": "Alter Flughafen Schönefeld (Terminal M)",
+    "Ort": "Schönefeld",
+    "Bundesland": "Brandenburg",
+    "Value": 1
+  },
+  {
+    "Titel": "Brandenburg an der Havel",
+    "Lat": "52,4125287",
+    "Lon": "12,5316444",
+    "Typ": "An der Regattastrecke",
+    "Ort": "Brandenburg an der Havel",
+    "Bundesland": "Brandenburg",
+    "Value": 1
+  },
+  {
+    "Titel": "Wittenburger Straße 118, Schwerin",
+    "Lat": "53,6273733",
+    "Lon": "11,3927240",
+    "Typ": "Kongresshalle",
+    "Ort": "Schwerin",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "Zur Hansemesse 1-2, Rostock",
+    "Lat": "54,1389200",
+    "Lon": "12,0731500",
+    "Typ": "HanseMesse",
+    "Ort": "Rostock",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "Brandteichstraße 20, Greifswald",
+    "Lat": "54,0827793",
+    "Lon": "13,3732914",
+    "Typ": "Technologiezentrum",
+    "Ort": "Greifswald",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "Große Kirchstraße 18, Pasewalk",
+    "Lat": "53,5038857",
+    "Lon": "13,9990311",
+    "Typ": "Altes Kino",
+    "Ort": "Pasewalk",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "Rostocker Chaussee 110, Stralsund",
+    "Lat": "54,3035670",
+    "Lon": "13,0354706",
+    "Typ": "Stralsunder Innovation Consult GmbH",
+    "Ort": "Stralsund",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "Putzlitzer Straße 56, Parchim",
+    "Lat": "53,4243141",
+    "Lon": "11,8465875",
+    "Typ": "Stadthalle",
+    "Ort": "Parchim",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "Christian-Ludwig-Straße 1, Ludwigslust",
+    "Lat": "53,3217453",
+    "Lon": "11,5022330",
+    "Typ": "Stadthalle",
+    "Ort": "Ludwigslust",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "Flughafenstraße 10, Trollenhagen",
+    "Lat": "53,6045142",
+    "Lon": "13,2995182",
+    "Typ": "Flughafen",
+    "Ort": "Trollenhagen",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "Warendorfer Str. 18, 17192 Waren (Müritz)",
+    "Lat": "53,5230932",
+    "Lon": "12,6452474",
+    "Typ": "Im überregionalen Ausbildungszentrum (ÜAZ) ",
+    "Ort": "Waren (Müritz)",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Ploggensee 4, Grevesmühlen",
+    "Lat": "53,8669800",
+    "Lon": "11,1946000",
+    "Typ": "DRK-Liegenschaft",
+    "Ort": "Grevesmühlen",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "Störtebeker Straße 2, Wismar",
+    "Lat": "53,8848704",
+    "Lon": "11,4351608",
+    "Typ": "Geriatrische Tagesklinik/Sana-Klinikum",
+    "Ort": "Wismar",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "Flughafenstraße 1, Laage",
+    "Lat": "53,9188575",
+    "Lon": "12,2779914",
+    "Typ": "Flughafen",
+    "Ort": "Laage",
+    "Bundesland": "Mecklenburg-Vorpommern",
+    "Value": 1
+  },
+  {
+    "Titel": "An der Wipper 2, 06567 Bad Frankenhausen",
+    "Lat": "51,3582597",
+    "Lon": "11,0954483",
+    "Typ": "KMG Klinik",
+    "Ort": "Bad Frankenhausen",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Rudolph-Weiss-Straße 1-5, 99947 Bad Langensalza",
+    "Lat": "51,1057800",
+    "Lon": "10,6519700",
+    "Typ": "Hufeland Klinikum",
+    "Ort": "Bad Langensalza",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Mühlhäuser Straße 94, 99817 Eisenach",
+    "Lat": "50,9889333",
+    "Lon": "10,3161770",
+    "Typ": "Container Klinikgelände",
+    "Ort": "Eisenach",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Nordhäuser Straße 74, 99089 Erfurt",
+    "Lat": "50,9945313",
+    "Lon": "11,0113384",
+    "Typ": "Helios Klinik",
+    "Ort": "Erfurt",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Johannes R.-Becher-Straße 1, 07549 Gera",
+    "Lat": "50,8947257",
+    "Lon": "12,0823827",
+    "Typ": "Ärztehaus Bieblach",
+    "Ort": "Gera",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Kastanienallee 8, 99867 Gotha",
+    "Lat": "50,9500849",
+    "Lon": "10,7093319",
+    "Typ": "Ehemalige Praxis",
+    "Ort": "Gotha",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Ziegesarstraße 19, 07747 Jena",
+    "Lat": "50,8840213",
+    "Lon": "11,6214092",
+    "Typ": "Ehemalige Praxis",
+    "Ort": "Jena",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Dr.-Romberg-Straße 1, 98617 Meiningen",
+    "Lat": "50,5561464",
+    "Lon": "10,3932420",
+    "Typ": "Demenzzentrum",
+    "Ort": "Meiningen",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Hohes Gässchen 8-10, 07381 Pößneck",
+    "Lat": "50,6983168",
+    "Lon": "11,5907570",
+    "Typ": "Krankenhaus Pößneck",
+    "Ort": "Pößneck",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Robert-Koch-Straße 95, 04626 Schmölln",
+    "Lat": "50,9045021",
+    "Lon": "12,3606182",
+    "Typ": "MVZ",
+    "Ort": "Schmölln",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Köppelsdorfer Straße 36, 96515 Sonneberg",
+    "Lat": "50,3581325",
+    "Lon": "11,1736809",
+    "Typ": "Alte Tanzschule",
+    "Ort": "Sonneberg",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Friedrich-König-Straße 23, 98527 Suhl",
+    "Lat": "50,6116507",
+    "Lon": "10,6919561",
+    "Typ": "Gewerberäume",
+    "Ort": "Suhl",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Goetheplatz 11, 99423 Weimar",
+    "Lat": "50,9815100",
+    "Lon": "11,3259690",
+    "Typ": "Mon ami",
+    "Ort": "Weimar",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Haarbergstraße 70, 99097 Erfurt",
+    "Lat": "50,9484927",
+    "Lon": "11,0840210",
+    "Typ": "Katholisches Krankenhaus",
+    "Ort": "Erfurt",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Klause 1, 99510 Apolda",
+    "Lat": "51,0262978",
+    "Lon": "11,5146532",
+    "Typ": "Stadthalle",
+    "Ort": "Apolda",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Rankestraße 2, 99310 Arnstadt",
+    "Lat": "50,8336355",
+    "Lon": "10,9480220",
+    "Typ": "Alte Schwimmhalle",
+    "Ort": "Arnstadt",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Liebensteiner Straße 15, 36456 Barchfeld-Immelborn",
+    "Lat": "50,8005550",
+    "Lon": "10,3008959",
+    "Typ": "keine weiteren Informationen",
+    "Ort": "Barchfeld-Immelborn",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Wirtstraße 5, 99444 Blankenhain",
+    "Lat": "50,8595403",
+    "Lon": "11,3392162",
+    "Typ": "Krankenhaus  ",
+    "Ort": "Blankenhain",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Klosterlausnitzer Straße 81, 07607 Eisenberg",
+    "Lat": "50,9575882",
+    "Lon": "11,8821078",
+    "Typ": "Waldkliniken Eisenberg",
+    "Ort": "Eisenberg",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Ernst-Toller-Str. 14, 07549 Gera",
+    "Lat": "50,8812562",
+    "Lon": "12,0778396",
+    "Typ": "Bereitschaftsdienst-Praxis",
+    "Ort": "Gera",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Coburger Straße 22, 98646 Hildburghausen",
+    "Lat": "50,4225138",
+    "Lon": "10,7314324",
+    "Typ": "keine weiteren Informationen",
+    "Ort": "Hildburghausen",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Am Stollen 48, 98693 Ilmenau",
+    "Lat": "50,6793108",
+    "Lon": "10,9285714",
+    "Typ": "Alte Schwimmhalle",
+    "Ort": "Ilmenau",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Knebelstraße 10, 07745 Jena",
+    "Lat": "50,9252298",
+    "Lon": "11,5865735",
+    "Typ": "Volksbad",
+    "Ort": "Jena",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Händelstraße 10, 37327 Leinefelde",
+    "Lat": "51,3762599",
+    "Lon": "10,3205899",
+    "Typ": "Alte Schule",
+    "Ort": "Leinefelde",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Lindenhof 6, 99974 Mühlhausen",
+    "Lat": "51,2340054",
+    "Lon": "10,4493320",
+    "Typ": "keine weiteren Informationen",
+    "Ort": "Mühlhausen",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Stollbergstraße 131, 99734 Nordhausen",
+    "Lat": "51,4990777",
+    "Lon": "10,8371712",
+    "Typ": "keine weiteren Informationen",
+    "Ort": "Nordhausen",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Siechenrasen 13, 98574 Schmalkalden",
+    "Lat": "50,7187718",
+    "Lon": "10,4458833",
+    "Typ": "keine weiteren Informationen",
+    "Ort": "Schmalkalden",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Leubinger Straße 5, 99610 Sömmerda",
+    "Lat": "51,1704166",
+    "Lon": "11,1275716",
+    "Typ": "keine weiteren Informationen",
+    "Ort": "Sömmerda",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  },
+  {
+    "Titel": "Goetheallee 8, 07937 Zeulenroda",
+    "Lat": "50,6483145",
+    "Lon": "11,9770086",
+    "Typ": "keine weiteren Informationen",
+    "Ort": "Zeulenroda",
+    "Bundesland": "Thüringen",
+    "Value": 1
+  }
+]
